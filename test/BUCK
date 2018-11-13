@@ -1,0 +1,10 @@
+cxx_binary(
+  name = 'test', 
+  srcs = [
+    'test.cpp', 
+  ], 
+  deps = [
+    '//:supercluster', 
+    'buckaroo.github.buckaroo-pm.mapbox-rapidjson//:rapidjson', 
+  ],
+)

@@ -1,0 +1,11 @@
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-geometry.hpp"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-rapidjson"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mourner-kdbush.hpp"
+version = "branch=master"

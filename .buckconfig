@@ -1,0 +1,6 @@
+[repositories]
+  buckaroo.github.buckaroo-pm.Catch2 = ./buckaroo-packages/github/buckaroo-pm/Catch2
+  buckaroo.github.buckaroo-pm.mapbox-geometry.hpp = ./buckaroo-packages/github/buckaroo-pm/mapbox-geometry.hpp
+  buckaroo.github.buckaroo-pm.mapbox-rapidjson = ./buckaroo-packages/github/buckaroo-pm/mapbox-rapidjson
+  buckaroo.github.buckaroo-pm.mapbox-variant = ./buckaroo-packages/github/buckaroo-pm/mapbox-variant
+  buckaroo.github.buckaroo-pm.mourner-kdbush.hpp = ./buckaroo-packages/github/buckaroo-pm/mourner-kdbush.hpp

@@ -1,3 +1,9 @@
 .mason
 mason_packages
 build
+buck-out
+.buckd
+buckaroo
+buckaroo-packages
+cache
+BUCKAROO_DEPS
