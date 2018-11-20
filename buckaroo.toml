@@ -1,3 +1,5 @@
+targets = [ "//:supercluster" ]
+
 [[dependency]]
 package = "github.com/buckaroo-pm/mapbox-geometry.hpp"
 version = "branch=master"
