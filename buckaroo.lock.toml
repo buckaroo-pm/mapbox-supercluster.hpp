@@ -1,4 +1,8 @@
-manifest = "e459650dd3fa694bbea6d7a231ce51a122441a90c3796818367da1277e6959c9"
+manifest = "fb7f8f48fafe190049ce76c5b4dfa484b0064db846e37bd8cc83e31262dfa5d5"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-geometry.hpp"
+target = "//:geometry"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/mapbox-rapidjson"
@@ -10,20 +14,25 @@ target = "//:kdbush"
 
 [[lock]]
 name = "github.com/buckaroo-pm/Catch2"
+version = "1.12.1"
 revision = "65ab25beb9080c77a7aa0edbfab1812a06e174d1"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mapbox-geometry.hpp"
-revision = "d5de7f8c864243cbeb340d7595ff2b9bcf0e148b"
+version = "branch=master"
+revision = "dc886c9705ebec3b4c8ddf3b305537a450267944"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mapbox-rapidjson"
+version = "branch=master"
 revision = "44ccecfb229c4862ef4fa924a4841749196abfc7"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mapbox-variant"
+version = "branch=master"
 revision = "e735b7c1be9fe58e364685e6093628644776baf3"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mourner-kdbush.hpp"
+version = "branch=master"
 revision = "87963ba05a2567e829be8b15ab3027d3950ec0f2"
